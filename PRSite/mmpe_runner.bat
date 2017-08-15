@@ -1,0 +1,1 @@
+javaw -Xmx200m -jar  C:\karthik\Alexa\spring\eis\mmpe\target\CloverConnector-0.0.1-SNAPSHOT.jar
